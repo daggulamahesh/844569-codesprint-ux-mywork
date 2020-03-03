@@ -1,0 +1,20 @@
+Name: Daggula Maheswara Reddy
+   Emp Id: 844569
+   Fse-Chennai
+   Trainer: suresh
+
+
+
+
+My associate Id: 844569 and my team members are
+1. 844602
+2. 844562
+3. 844604
+4. 844599
+
+My mini project is available in Github as” 844569-codesprint-ux-mywork”. My github  link https://github.com/daggulamahesh
+1. https://github.com/daggulamahesh/844569-codesprint-ui-mywork
+2. https://github.com/daggulamahesh/844569-codesprint-ux-teamwork
+
+In this code sprint contains Html, CSS, and Bootstraps, angular:
+In this codesprint-ux   my developing role is to create a Sevices and Place appointment page with validations and creating Json Server and adding database . 
